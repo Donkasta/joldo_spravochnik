@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Learn Project</string>
+    <string name="start_button">Get started!</string>
+    <string name="publications_main">Publications</string>
+</resources>
